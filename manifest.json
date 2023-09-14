@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "permissions": [
+      "activeTab"
+    ],
+    "version": "0.0.1",
+    "name": "DPASS: Gerador de Senhas",
+    "description": "Gerador de Senhas Fortes",
+    "author": "Diego da Silva Pereira",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "DPASS",
+      "default_icon": {
+        "16": "pass.png",
+        "48": "pass.png",
+        "128": "pass.png"
+      }
+    }
+  }
+  
